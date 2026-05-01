@@ -66,7 +66,7 @@ Get-ChildItem -Path src -Recurse -Filter *.java | ForEach-Object { javac -d bin 
 - The main application menu is controlled from `src/com/airtribe/learntrack/Main.java`.
 
 
-- Class diagram:
+- Class diagram
 
 -  `src/com/airtribe/learntrack/docs/Class_Diagram.png`
 
